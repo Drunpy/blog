@@ -1,0 +1,15 @@
+Hello, I am Lorran!
+
+I've been discovering software development since 2015 when I found
+the book "Automating Boring Stuff With Python" from Al Sweigart and
+started make some scripts here and there.
+
+I started with simple automation using pure python, then jumped to
+Web Scraping and ended up as a full time backend dev.
+
+I work mostly with Python but I've done some Rust and Go.
+
+I'm interested in topics like Computer Science, Statistics, Open Source
+Software, Philosophy and Human Behavior.
+
+This blog runs in a containerized Nginx instance, using a total of < 30 lines of code.
