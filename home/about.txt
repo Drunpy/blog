@@ -13,3 +13,5 @@ I'm interested in topics like Computer Science, Statistics, Open Source
 Software, Philosophy and Human Behavior.
 
 This blog runs in a containerized Nginx instance, using a total of < 30 lines of code.
+
+You can contact me by sending an email to lorran[at]lorran.online 
