@@ -1,6 +1,6 @@
 # Hello
 
-Express ideias in text is not a easy task but as the time passes I realize
+Express ideas in text is not an easy task but as the time passes I realize
 it is a critical skill in Software Development/Engineering role. I've been
 thinking in start a blog since the last year but it seemed to be too much 
 work to create my own blog from bottom up, the first idea was a Django app
