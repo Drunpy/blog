@@ -1,11 +1,11 @@
 Hello, I am Lorran!
 
 I've been discovering software development since 2015 when I found
-the book "Automating Boring Stuff With Python" from Al Sweigart and
-started make some scripts here and there.
+the book "Automating Boring Stuff With Python" by Al Sweigart and
+started to make some scripts here and there.
 
 I started with simple automation using pure python, then jumped to
-Web Scraping and ended up as a full time backend dev.
+Web Scraping and ended up as a full-time backend dev.
 
 I work mostly with Python but I've done some Rust and Go.
 
